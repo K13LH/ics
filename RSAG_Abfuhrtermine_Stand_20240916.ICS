@@ -1,0 +1,369 @@
+BEGIN:VCALENDAR
+PRODID:-//Grafik-Partner GmbH//Muellmax 7.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:RSAG AöR\n
+	Pleiser Hecke 4\n
+	53721 Siegburg\n
+	\n
+	info@rsag.de\n
+	www.rsag.de\n
+	\n
+	Termin-Vergabe: 02241 306 444 für Sperrmüll, Elektrogroßgeräte\n
+	Bündel-Sammlung: 0800 306 5555\n
+	Info-Telefon: 02241 306 306\n
+	\n
+	Bitte beachten Sie, dass sich die Leerungstage unterjährig ändern können. Da wir unsere Touren regelmäßig optimieren und anpassen, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.
+LOCATION:53773 Hennef, Heilig-Kreuz-Straße
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:17276463361@muellmax.de
+DTSTAMP:20240929T214536Z
+SUMMARY:RSAG Restmülltonne 2-wö.
+CLASS:PUBLIC
+CREATED:20240916T140339Z
+LAST-MODIFIED:20240916T140339Z
+URL:http://www.muellmax.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241017
+DTEND;VALUE=DATE:20241018
+DESCRIPTION:RSAG AöR\n
+	Pleiser Hecke 4\n
+	53721 Siegburg\n
+	\n
+	info@rsag.de\n
+	www.rsag.de\n
+	\n
+	Termin-Vergabe: 02241 306 444 für Sperrmüll, Elektrogroßgeräte\n
+	Bündel-Sammlung: 0800 306 5555\n
+	Info-Telefon: 02241 306 306\n
+	\n
+	Bitte beachten Sie, dass sich die Leerungstage unterjährig ändern können. Da wir unsere Touren regelmäßig optimieren und anpassen, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.
+LOCATION:53773 Hennef, Heilig-Kreuz-Straße
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:17276463362@muellmax.de
+DTSTAMP:20240929T214536Z
+SUMMARY:RSAG Restmülltonne 2-wö.
+CLASS:PUBLIC
+CREATED:20240916T140339Z
+LAST-MODIFIED:20240916T140339Z
+URL:http://www.muellmax.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241101
+DESCRIPTION:RSAG AöR\n
+	Pleiser Hecke 4\n
+	53721 Siegburg\n
+	\n
+	info@rsag.de\n
+	www.rsag.de\n
+	\n
+	Termin-Vergabe: 02241 306 444 für Sperrmüll, Elektrogroßgeräte\n
+	Bündel-Sammlung: 0800 306 5555\n
+	Info-Telefon: 02241 306 306\n
+	\n
+	Bitte beachten Sie, dass sich die Leerungstage unterjährig ändern können. Da wir unsere Touren regelmäßig optimieren und anpassen, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.
+LOCATION:53773 Hennef, Heilig-Kreuz-Straße
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:17276463363@muellmax.de
+DTSTAMP:20240929T214536Z
+SUMMARY:RSAG Restmülltonne 2-wö.
+CLASS:PUBLIC
+CREATED:20240916T140339Z
+LAST-MODIFIED:20240916T140339Z
+URL:http://www.muellmax.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241114
+DTEND;VALUE=DATE:20241115
+DESCRIPTION:RSAG AöR\n
+	Pleiser Hecke 4\n
+	53721 Siegburg\n
+	\n
+	info@rsag.de\n
+	www.rsag.de\n
+	\n
+	Termin-Vergabe: 02241 306 444 für Sperrmüll, Elektrogroßgeräte\n
+	Bündel-Sammlung: 0800 306 5555\n
+	Info-Telefon: 02241 306 306\n
+	\n
+	Bitte beachten Sie, dass sich die Leerungstage unterjährig ändern können. Da wir unsere Touren regelmäßig optimieren und anpassen, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.
+LOCATION:53773 Hennef, Heilig-Kreuz-Straße
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:17276463364@muellmax.de
+DTSTAMP:20240929T214536Z
+SUMMARY:RSAG Restmülltonne 2-wö.
+CLASS:PUBLIC
+CREATED:20240916T140339Z
+LAST-MODIFIED:20240916T140339Z
+URL:http://www.muellmax.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241128
+DTEND;VALUE=DATE:20241129
+DESCRIPTION:RSAG AöR\n
+	Pleiser Hecke 4\n
+	53721 Siegburg\n
+	\n
+	info@rsag.de\n
+	www.rsag.de\n
+	\n
+	Termin-Vergabe: 02241 306 444 für Sperrmüll, Elektrogroßgeräte\n
+	Bündel-Sammlung: 0800 306 5555\n
+	Info-Telefon: 02241 306 306\n
+	\n
+	Bitte beachten Sie, dass sich die Leerungstage unterjährig ändern können. Da wir unsere Touren regelmäßig optimieren und anpassen, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.
+LOCATION:53773 Hennef, Heilig-Kreuz-Straße
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:17276463365@muellmax.de
+DTSTAMP:20240929T214536Z
+SUMMARY:RSAG Restmülltonne 2-wö.
+CLASS:PUBLIC
+CREATED:20240916T140339Z
+LAST-MODIFIED:20240916T140339Z
+URL:http://www.muellmax.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241212
+DTEND;VALUE=DATE:20241213
+DESCRIPTION:RSAG AöR\n
+	Pleiser Hecke 4\n
+	53721 Siegburg\n
+	\n
+	info@rsag.de\n
+	www.rsag.de\n
+	\n
+	Termin-Vergabe: 02241 306 444 für Sperrmüll, Elektrogroßgeräte\n
+	Bündel-Sammlung: 0800 306 5555\n
+	Info-Telefon: 02241 306 306\n
+	\n
+	Bitte beachten Sie, dass sich die Leerungstage unterjährig ändern können. Da wir unsere Touren regelmäßig optimieren und anpassen, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.
+LOCATION:53773 Hennef, Heilig-Kreuz-Straße
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:17276463366@muellmax.de
+DTSTAMP:20240929T214536Z
+SUMMARY:RSAG Restmülltonne 2-wö.
+CLASS:PUBLIC
+CREATED:20240916T140339Z
+LAST-MODIFIED:20240916T140339Z
+URL:http://www.muellmax.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241227
+DTEND;VALUE=DATE:20241228
+DESCRIPTION:RSAG AöR\n
+	Pleiser Hecke 4\n
+	53721 Siegburg\n
+	\n
+	info@rsag.de\n
+	www.rsag.de\n
+	\n
+	Termin-Vergabe: 02241 306 444 für Sperrmüll, Elektrogroßgeräte\n
+	Bündel-Sammlung: 0800 306 5555\n
+	Info-Telefon: 02241 306 306\n
+	\n
+	Bitte beachten Sie, dass sich die Leerungstage unterjährig ändern können. Da wir unsere Touren regelmäßig optimieren und anpassen, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.
+LOCATION:53773 Hennef, Heilig-Kreuz-Straße
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:17276463367@muellmax.de
+DTSTAMP:20240929T214536Z
+SUMMARY:RSAG Restmülltonne 2-wö.
+CLASS:PUBLIC
+CREATED:20240916T140339Z
+LAST-MODIFIED:20240916T140339Z
+URL:http://www.muellmax.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241024
+DTEND;VALUE=DATE:20241025
+DESCRIPTION:RSAG AöR\n
+	Pleiser Hecke 4\n
+	53721 Siegburg\n
+	\n
+	info@rsag.de\n
+	www.rsag.de\n
+	\n
+	Termin-Vergabe: 02241 306 444 für Sperrmüll, Elektrogroßgeräte\n
+	Bündel-Sammlung: 0800 306 5555\n
+	Info-Telefon: 02241 306 306\n
+	\n
+	Bitte beachten Sie, dass sich die Leerungstage unterjährig ändern können. Da wir unsere Touren regelmäßig optimieren und anpassen, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.
+LOCATION:53773 Hennef, Heilig-Kreuz-Straße
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:17276463368@muellmax.de
+DTSTAMP:20240929T214536Z
+SUMMARY:RSAG Papiertonne 4-wö.
+CLASS:PUBLIC
+CREATED:20240916T140339Z
+LAST-MODIFIED:20240916T140339Z
+URL:http://www.muellmax.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241121
+DTEND;VALUE=DATE:20241122
+DESCRIPTION:RSAG AöR\n
+	Pleiser Hecke 4\n
+	53721 Siegburg\n
+	\n
+	info@rsag.de\n
+	www.rsag.de\n
+	\n
+	Termin-Vergabe: 02241 306 444 für Sperrmüll, Elektrogroßgeräte\n
+	Bündel-Sammlung: 0800 306 5555\n
+	Info-Telefon: 02241 306 306\n
+	\n
+	Bitte beachten Sie, dass sich die Leerungstage unterjährig ändern können. Da wir unsere Touren regelmäßig optimieren und anpassen, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.
+LOCATION:53773 Hennef, Heilig-Kreuz-Straße
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:17276463369@muellmax.de
+DTSTAMP:20240929T214536Z
+SUMMARY:RSAG Papiertonne 4-wö.
+CLASS:PUBLIC
+CREATED:20240916T140339Z
+LAST-MODIFIED:20240916T140339Z
+URL:http://www.muellmax.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241219
+DTEND;VALUE=DATE:20241220
+DESCRIPTION:RSAG AöR\n
+	Pleiser Hecke 4\n
+	53721 Siegburg\n
+	\n
+	info@rsag.de\n
+	www.rsag.de\n
+	\n
+	Termin-Vergabe: 02241 306 444 für Sperrmüll, Elektrogroßgeräte\n
+	Bündel-Sammlung: 0800 306 5555\n
+	Info-Telefon: 02241 306 306\n
+	\n
+	Bitte beachten Sie, dass sich die Leerungstage unterjährig ändern können. Da wir unsere Touren regelmäßig optimieren und anpassen, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.
+LOCATION:53773 Hennef, Heilig-Kreuz-Straße
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:172764633610@muellmax.de
+DTSTAMP:20240929T214536Z
+SUMMARY:RSAG Papiertonne 4-wö.
+CLASS:PUBLIC
+CREATED:20240916T140339Z
+LAST-MODIFIED:20240916T140339Z
+URL:http://www.muellmax.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:RSAG AöR\n
+	Pleiser Hecke 4\n
+	53721 Siegburg\n
+	\n
+	info@rsag.de\n
+	www.rsag.de\n
+	\n
+	Termin-Vergabe: 02241 306 444 für Sperrmüll, Elektrogroßgeräte\n
+	Bündel-Sammlung: 0800 306 5555\n
+	Info-Telefon: 02241 306 306\n
+	\n
+	Bitte beachten Sie, dass sich die Leerungstage unterjährig ändern können. Da wir unsere Touren regelmäßig optimieren und anpassen, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.
+LOCATION:53773 Hennef, Heilig-Kreuz-Straße
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:172764633611@muellmax.de
+DTSTAMP:20240929T214536Z
+SUMMARY:RSAG Wertstofftonne oder -sack 4-wö.
+CLASS:PUBLIC
+CREATED:20240916T140339Z
+LAST-MODIFIED:20240916T140339Z
+URL:http://www.muellmax.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241101
+DESCRIPTION:RSAG AöR\n
+	Pleiser Hecke 4\n
+	53721 Siegburg\n
+	\n
+	info@rsag.de\n
+	www.rsag.de\n
+	\n
+	Termin-Vergabe: 02241 306 444 für Sperrmüll, Elektrogroßgeräte\n
+	Bündel-Sammlung: 0800 306 5555\n
+	Info-Telefon: 02241 306 306\n
+	\n
+	Bitte beachten Sie, dass sich die Leerungstage unterjährig ändern können. Da wir unsere Touren regelmäßig optimieren und anpassen, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.
+LOCATION:53773 Hennef, Heilig-Kreuz-Straße
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:172764633612@muellmax.de
+DTSTAMP:20240929T214536Z
+SUMMARY:RSAG Wertstofftonne oder -sack 4-wö.
+CLASS:PUBLIC
+CREATED:20240916T140339Z
+LAST-MODIFIED:20240916T140339Z
+URL:http://www.muellmax.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241128
+DTEND;VALUE=DATE:20241129
+DESCRIPTION:RSAG AöR\n
+	Pleiser Hecke 4\n
+	53721 Siegburg\n
+	\n
+	info@rsag.de\n
+	www.rsag.de\n
+	\n
+	Termin-Vergabe: 02241 306 444 für Sperrmüll, Elektrogroßgeräte\n
+	Bündel-Sammlung: 0800 306 5555\n
+	Info-Telefon: 02241 306 306\n
+	\n
+	Bitte beachten Sie, dass sich die Leerungstage unterjährig ändern können. Da wir unsere Touren regelmäßig optimieren und anpassen, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.
+LOCATION:53773 Hennef, Heilig-Kreuz-Straße
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:172764633613@muellmax.de
+DTSTAMP:20240929T214536Z
+SUMMARY:RSAG Wertstofftonne oder -sack 4-wö.
+CLASS:PUBLIC
+CREATED:20240916T140339Z
+LAST-MODIFIED:20240916T140339Z
+URL:http://www.muellmax.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241227
+DTEND;VALUE=DATE:20241228
+DESCRIPTION:RSAG AöR\n
+	Pleiser Hecke 4\n
+	53721 Siegburg\n
+	\n
+	info@rsag.de\n
+	www.rsag.de\n
+	\n
+	Termin-Vergabe: 02241 306 444 für Sperrmüll, Elektrogroßgeräte\n
+	Bündel-Sammlung: 0800 306 5555\n
+	Info-Telefon: 02241 306 306\n
+	\n
+	Bitte beachten Sie, dass sich die Leerungstage unterjährig ändern können. Da wir unsere Touren regelmäßig optimieren und anpassen, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.
+LOCATION:53773 Hennef, Heilig-Kreuz-Straße
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:172764633614@muellmax.de
+DTSTAMP:20240929T214536Z
+SUMMARY:RSAG Wertstofftonne oder -sack 4-wö.
+CLASS:PUBLIC
+CREATED:20240916T140339Z
+LAST-MODIFIED:20240916T140339Z
+URL:http://www.muellmax.de
+END:VEVENT
+END:VCALENDAR
